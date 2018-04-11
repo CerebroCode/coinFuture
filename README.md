@@ -20,4 +20,4 @@ _Wishlist of what to build , somethings might never happen but its a wishlist af
 
 
 ## How to Contribute 
-_We are open to contribution , We will try to review code regularly and quickly._
+_Contributions should be made via pull requests. Pull requests will be reviewed by one or more maintainers and merged when acceptable. All contributions are welcome._
